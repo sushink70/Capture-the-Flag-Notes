@@ -504,13 +504,13 @@ service NetworkManager restart
 
  10. Tools Summary
 
-| Tool        | Purpose                                      |
-|------------------|--------------------------------------------------|
+| Tool           | Purpose                                          |
+|----------------|--------------------------------------------------|
 | aircrack-ng    | Handshake capture and cracking.                  |
 | hashcat        | High-speed password cracking.                    |
 | bettercap      | MITM attacks and network monitoring.             |
 | reaver         | WPS PIN brute-forcing.                           |
-| hcxpcapngtool  | Convert .cap files for cracking with Hashcat.  |
+| hcxpcapngtool  | Convert .cap files for cracking with Hashcat.    |
 | tcpdump        | Packet capture and analysis.                     |
 | wireshark      | Advanced packet analysis.                        |
 
