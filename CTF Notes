@@ -2,7 +2,7 @@ hydra -l Username -P /usr/share/wordlists/rockyou.txt 10.10.252.96 http-post-for
 
 ---
 
- CTF Notes for Web Application Machines on HTB
+ CTF Notes for Web Application Machines on HTB.
 
  1. Initial Reconnaissance
  Scan for Open Ports
